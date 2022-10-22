@@ -1,9 +1,8 @@
 void setup() {
-  // put your setup code here, to run once:
-  //e
+  // Code that run once:
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Code that repeats:
 
 }
